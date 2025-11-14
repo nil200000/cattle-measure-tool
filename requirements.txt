@@ -1,5 +1,5 @@
 streamlit==1.29.0
-streamlit-drawable_canvas==0.9.3
+streamlit-image-annotation==0.2.2
 pillow
 numpy
 pandas
