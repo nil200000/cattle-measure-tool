@@ -1,6 +1,6 @@
 streamlit==1.29.0
-streamlit-image-annotation==0.2.2
-pillow
-numpy
-pandas
-opencv-python-headless
+streamlit-drawable-canvas==0.8.0
+Pillow==9.5.0
+numpy==1.23.5
+pandas==1.5.3
+opencv-python-headless==4.7.0.72
